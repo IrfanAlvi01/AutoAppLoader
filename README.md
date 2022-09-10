@@ -12,3 +12,7 @@ After loading project in VS code, theres GUI directory which contain all source 
 project. All functionalities of this project are modular and located in separate files. `CustomA-B.cs` files contain code for custom app loading
 functionlity, where `panelShooter.cs` file has code for multi-mode screenshooter. `Setting.cs` has very basic setting options & more planned to implement
 in future, whereas `SubMainA-B.cs` files are self-explainatory.
+
+## Build:
+Build directory contains test build of this desktop app and it can be easily install in your system by executing `setup.exe` file. Its one of the beta
+build of this project, which contain few hard-coded functionlities.
